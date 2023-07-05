@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o "D:/Study/AUT/Term6/AZ Logical/Project/ALU/Decoder.vhi" -module Decoder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Decoder.vhd 

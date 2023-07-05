@@ -1,0 +1,3 @@
+vhdl work "Decoder.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Top.vhd"
